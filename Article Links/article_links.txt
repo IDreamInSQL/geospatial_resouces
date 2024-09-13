@@ -1,0 +1,5 @@
+Dr. Tamara Munzner lecture on visualizing geospatial data - from University of British Columbia course: https://www.youtube.com/watch?v=rAyRrmfVwRc
+
+Microsoft documentation on Nearest Neighbor queries: https://learn.microsoft.com/en-us/sql/relational-databases/spatial/query-spatial-data-for-nearest-neighbor?view=sql-server-ver16
+
+"Twelve Million Phones, One Dataset, Zero Privacy" - New York Times: https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
